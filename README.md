@@ -9,12 +9,13 @@ E-MAIL:bekuktanandashev@gmail.com
 ```
 ------
 ##About me
+ ---
  I'm 18 years old and I'm a student of INAI KG
  (Institut Applied Informatics). At the moment I'm going
  to the IT-RUN courses. 
   My goal:  start a career as junior Front-End developer in 
  company X and in 5 years grown up to team leader.
-------
+---
 ##Skills:
 * HTML/CSS;
 * JavaScript;
