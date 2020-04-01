@@ -1,15 +1,14 @@
 # _Andashev Beksultan_
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-***
+
 
 ##Contact info:
-***
 ```
 Bishkek
 TN-0555-50-77-66
 E-MAIL:bekuktanandashev@gmail.com
 ```
-***
+
 
 ##About me
 
@@ -19,7 +18,7 @@ E-MAIL:bekuktanandashev@gmail.com
  to the IT-RUN courses. 
   My goal:  start a career as junior Front-End developer in 
  company X and in 5 years grown up to team leader.
-***
+
 
 
 ##Skills:
@@ -29,7 +28,7 @@ E-MAIL:bekuktanandashev@gmail.com
 * Java;
 * Coreldraw;
 * PhotoShop.
-***
+
 
 
  ##My projects:
@@ -50,13 +49,13 @@ $('.top-menu a').on('click', () => {
     $('.top-menu').removeClass('show')
 });
 ```
-***
+
 
 ##Education:
  I had graduated from  private school "Taalim" (2008-2019)
  and in autumn of 2019 became an "INAI" student. This year
  I started going to the IT-RUN programming courses. 
-***
+
  
 ##English:
 I used to go to English courses and my level is 
