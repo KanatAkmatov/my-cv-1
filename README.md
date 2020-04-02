@@ -5,11 +5,13 @@
 ##Contact info:
 
 ***
-Bishkek
-TN-0555-50-77-66
-E-MAIL:bekuktanandashev@gmail.com
-***
 
+Bishkek  
+TN-0555-50-77-66  
+E-MAIL:bekuktanandashev@gmail.com  
+  
+***
+---        
 
 ##About me
 
@@ -19,7 +21,7 @@ E-MAIL:bekuktanandashev@gmail.com
   My goal:  start a career as junior Front-End developer in 
  company X and in 5 years grown up to team leader.
 
-
+---
 
 ##Skills:
 
@@ -32,13 +34,16 @@ E-MAIL:bekuktanandashev@gmail.com
 * Coreldraw;
 * PhotoShop.
 
-
+***
+---
 
  ##My projects:
- 
+ ***
  1. https://champ-ops.github.io/it-project/  
  2. https://champ-ops.github.io/Games-project/
  3. https://champ-ops.github.io/project/
+ ***
+ 
  ```
 $('.burger').on('click', () => {
     $('.burger').toggleClass('show-menu');
