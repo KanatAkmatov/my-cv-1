@@ -37,7 +37,8 @@
 
 
 
- ##  _My projects:_
+ ##  _My projects:_  
+ 
  
  1. [IT-Project](https://champ-ops.github.io/it-project/)  
  2. [Games-project](https://champ-ops.github.io/Games-project/)
@@ -56,7 +57,9 @@ $('.top-menu a').on('click', () => {
     $('.top-menu').removeClass('show')
 });
 
-```  
+```   
+
+*** 
 
 
 
