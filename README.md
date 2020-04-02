@@ -36,11 +36,14 @@
 ***
 ---
 
- ## _My projects:_
+ ##  _My projects:_
  
- 1. https://champ-ops.github.io/it-project/  
- 2. https://champ-ops.github.io/Games-project/
- 3. https://champ-ops.github.io/project/
+ 1. [IT-Project](https://champ-ops.github.io/it-project/)  
+ 2. [Games-project](https://champ-ops.github.io/Games-project/)
+ 3. [Bootstrap-project](https://champ-ops.github.io/project/)
+ 
+ 
+ ***
  
  
  ```$('.burger').on('click', () => {
