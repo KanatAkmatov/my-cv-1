@@ -34,21 +34,18 @@
 >* PhotoShop.
 
 ***
----
+
+
 
  ##  _My projects:_
  
  1. [IT-Project](https://champ-ops.github.io/it-project/)  
  2. [Games-project](https://champ-ops.github.io/Games-project/)
- 3. [Bootstrap-project](https://champ-ops.github.io/project/)
+ 3. [Bootstrap-project](https://champ-ops.github.io/project/)  
  
  
- ***
- 
- 
- 
- ---
- ```
+```  
+    
     $('.burger').on('click', () => {
     $('.burger').toggleClass('show-menu');
     $('.top-menu').toggleClass('show')
@@ -59,9 +56,10 @@ $('.top-menu a').on('click', () => {
     $('.top-menu').removeClass('show')
 });
 
-```
----
-***
+```  
+
+
+
 
 <dl>
 <dt>My Education:</dt> 
