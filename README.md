@@ -2,7 +2,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-## Contact info:
+## _Contact info:_
 >Bishkek  
 >  
 >TN-0555-50-77-66  
@@ -13,36 +13,35 @@
 ***
 ---        
 
-## About me
+##  _About me:_
 
  I'm 18 years old and I'm a student of INAI KG
  (Institut Applied Informatics). At the moment I'm going
  to the IT-RUN courses. 
   My goal:  start a career as junior Front-End developer in 
  company X and in 5 years grown up to team leader.
-
 ---
 
-##  Skills:
+##  _Skills:_
 
-* HTML/CSS;
-* SCSS
-* Bootstrap;
-* JavaScript;
-* Python;
-* Java;
-* Coreldraw;
-* PhotoShop.
+>* HTML/CSS;
+>* SCSS
+>* Bootstrap;
+>* JavaScript;
+>* Python;
+>* Java;
+>* Coreldraw;
+>* PhotoShop.
 
 ***
 ---
 
- ## My projects:
- ***
+ ## _My projects:_
+ 
  1. https://champ-ops.github.io/it-project/  
  2. https://champ-ops.github.io/Games-project/
  3. https://champ-ops.github.io/project/
- ***
+ 
  
  ```$('.burger').on('click', () => {
     $('.burger').toggleClass('show-menu');
