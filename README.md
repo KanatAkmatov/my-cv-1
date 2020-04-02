@@ -10,8 +10,7 @@
 >E-MAIL:bekuktanandashev@gmail.com  
   
   
-***
----        
+***       
 
 ##  _About me:_
 
