@@ -60,9 +60,9 @@ $('.top-menu a').on('click', () => {
 
 
 
-
+##  _Education:_
 <dl>
-<dt>My Education:</dt> 
+ 
       <dd> 
         I had graduated from  private school "Taalim" (2008-2019)  
         
@@ -77,8 +77,8 @@ $('.top-menu a').on('click', () => {
 ***
  
 
+##  _My English:_
 <dl>
-<dt>My English:</dt>
         <dd>I used to go to English courses and my level is  
         
             upper-intermediate. Also I'm learning English  
