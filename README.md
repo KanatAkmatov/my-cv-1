@@ -38,7 +38,14 @@
 
 
 _My projects:_
---------------  
+--------------
+
+ [IT-Project](https://champ-ops.github.io/it-project/)  
+
+   [Games-project](https://champ-ops.github.io/Games-project/)
+
+   [Bootstrap-project](https://champ-ops.github.io/project/)    
+     
  
 ```  
     
@@ -53,12 +60,6 @@ $('.top-menu a').on('click', () => {
 });
 
 ```    
- 
-  [IT-Project](https://champ-ops.github.io/it-project/)  
-
-   [Games-project](https://champ-ops.github.io/Games-project/)
-
-   [Bootstrap-project](https://champ-ops.github.io/project/)  
   
 
 ***   
