@@ -85,11 +85,9 @@ $('.top-menu a').on('click', () => {
 
 ##  _My English:_
 <dl>
-        <dd>I used to go to English courses and my level is  
-        
-            upper-intermediate. Also I'm learning English  
-            
-            online at home  
-            
-        </dd>
+    <dd>  
+    I used to go to English courses and now my level is upper-intermediate.  
+    It took me 8 months to improve my English language skills. Also I'm   
+    learning English online at home   
+    </dd>
 </dl>
