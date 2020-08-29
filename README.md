@@ -2,6 +2,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+
 ## _Contact info:_
 >Bishkek  
 >  
@@ -18,7 +19,8 @@
  (Institut Applied Informatics). At the moment I'm going
  to the IT-RUN courses. 
   My goal:  start a career as junior Front-End developer in 
- company X and in 5 years grown up to team leader.
+ company X and in 5 years grow up to team leader.  
+ 
 ---
 
 ##  _Skills:_
@@ -27,10 +29,15 @@
 >* SCSS
 >* Bootstrap;
 >* JavaScript;
->* Python;
+>* Scss;
+>* Sass;
+>* Flexbox;
+>* JSON;
+>* ReactJS;
+>* NodeJS;
 >* Java;
->* Coreldraw;
->* PhotoShop.
+>* BAM Methodology;
+>* GitHub;
 
 ***
 
@@ -43,7 +50,15 @@ _My projects:_
 
    [Games-project](https://champ-ops.github.io/Games-project/)
 
-   [Bootstrap-project](https://champ-ops.github.io/project/)    
+   [Bootstrap-project](https://champ-ops.github.io/project/)
+       
+   [Resume-project](https://champ-ops.github.io/cv-project/)
+       
+   [GitHub-App](https://git-hub-app-20.herokuapp.com/)
+       
+   [Task-Manager](https://editor-task.herokuapp.com/)
+       
+   [Shop](https://shop-20.herokuapp.com/)    
      
  
 ```  
