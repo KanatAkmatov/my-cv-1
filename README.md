@@ -29,13 +29,12 @@
 >* SCSS
 >* Bootstrap;
 >* JavaScript;
->* Scss;
+>* JQuery
 >* Sass;
 >* Flexbox;
 >* JSON;
 >* ReactJS;
 >* NodeJS;
->* Java;
 >* BAM Methodology;
 >* GitHub;
 
