@@ -82,7 +82,7 @@ $('.top-menu a').on('click', () => {
       <dd> 
         I had graduated from  private school "Taalim" (2008-2019)  
         
-        and in autumn of 2019 became an "INAI" student.  
+        and in autumn of 2019 became an "INAI" student.
          
       </dd>
 </dl>
@@ -91,11 +91,11 @@ $('.top-menu a').on('click', () => {
 ***
  
 
-##  _My English:_
+##  _My Language skills:_
 <dl>
     <dd>  
     I used to go to English courses and now my level is upper-intermediate.  
     It took me 8 months to improve my English language skills. Also I'm   
-    learning English online at home   
+    learning English and German online at home   
     </dd>
 </dl>
