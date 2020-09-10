@@ -1,4 +1,5 @@
 # _Andashev Beksultan_
+# _Front-end developer_
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
@@ -15,11 +16,7 @@
 
 ##  _About me:_
 
- I'm 18 years old and I'm a student of INAI KG
- (Institut Applied Informatics). At the moment I'm going
- to the IT-RUN courses. 
-  My goal:  start a career as junior Front-End developer in 
- company X and in 5 years grow up to team leader.  
+Hi, My name is Beksultan and I am 19 years old. I am a student of inai kg (Institute of applied Informatics). This year I took web programming courses at IT-RUN and became one of the best students in my group. Now I work there as A support group. Together with them I review the code and help them to understand how it works. At the moment i'm learning MongoDB. Also now I'm making internet-shop which works on React. You can follow the link below. My goal is to achieve professional growth in this field of development, as well as to become one of the most promising specialist  
  
 ---
 
@@ -85,9 +82,7 @@ $('.top-menu a').on('click', () => {
       <dd> 
         I had graduated from  private school "Taalim" (2008-2019)  
         
-        and in autumn of 2019 became an "INAI" student. This year  
-        
-        I started going to the IT-RUN programming courses.  
+        and in autumn of 2019 became an "INAI" student.  
          
       </dd>
 </dl>
