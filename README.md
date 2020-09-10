@@ -1,6 +1,6 @@
 # _Andashev Beksultan_
 # _Front-end developer_
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-UeINlyN7woQTOAKT.png)
 
 
 
