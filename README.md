@@ -16,7 +16,7 @@
 
 ##  _About me:_
 
-Hi, My name is Beksultan and I am 19 years old. I am a student of inai kg (Institute of applied Informatics). This year I took web programming courses at IT-RUN and became one of the best students in my group. Now I work there as A support group. Together with them I review the code and help them to understand how it works. At the moment i'm learning MongoDB. Also now I'm making internet-shop which works on React. You can follow the link below. My goal is to achieve professional growth in this field of development, as well as to become one of the most promising specialist  
+Hi, My name is Beksultan and I am 19 years old. I am a student of INAI KG (Institute of applied Informatics). This year I took web programming courses at IT-RUN and became one of the best students in my group. Now I work there as a SUPPORT group. Together with them I review the code and help them to understand how it works. At the moment I'm learning MongoDB. Also now I'm making internet-shop which works on React. You can follow the link below. My goal is to achieve professional growth in this field of development, as well as to become one of the most promising specialist.  
  
 ---
 
