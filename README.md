@@ -9,6 +9,8 @@
 >TN-0555-50-77-66  
 >  
 >E-MAIL:bekuktanandashev@gmail.com  
+>  
+> [LinkedIn](https://www.linkedin.com/in/beksultan-andashev-2344411a6)  
   
   
 ***       
