@@ -1,6 +1,6 @@
 # _Andashev Beksultan_
 # _Front-end developer_
-![Image of Yaktocat](https://i.ibb.co/z81Zghf/imgonline-com-ua-Resize-Uux-VKw2-Xa-Ui.png)
+![Image of Yaktocat](https://i.ibb.co/HYDkDDp/imgonline-com-ua-Resize-QTkv-NUxlkn.png)
 
 
 
